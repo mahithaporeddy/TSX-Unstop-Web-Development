@@ -1,0 +1,13 @@
+body{
+    justify-items:center;
+    align-items: center;
+}
+h1 {
+ 
+  color: teal;
+  margin-top: 300px;
+}
+
+p {
+  font-size: 18px;
+}
